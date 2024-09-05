@@ -1,1 +1,1 @@
-# beakjoon.practice
+# beakjoon, programmers practice
